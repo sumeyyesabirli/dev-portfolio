@@ -84,7 +84,7 @@ export default function Home() {
                         <span className="text-pink-300"> {">"} </span> const
                         techWeb
                         <span className="font-bold text-pink-300">2</span> =
-                        ["Angular", "Html-Css", ".net core", ""];{" "}
+                        ["Angular", "Html-Css", ".net core"];{" "}
                       </p>
                       
                     </div>
